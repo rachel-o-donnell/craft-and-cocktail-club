@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poiret+One&display=swap');
+
 body {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Poiret-One, sans-serif;
+    font-weight: 300;
+    color: #DC143C;
+}
+
+h1, h2 {
+    font-family: Abril-Fatface sans-serif;
+    letter-spacing: 4px;
+    color: #DC143C;
+
+}
+
+#logo {
+    float: left;
+    font-size: 190%;
+
 }
