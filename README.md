@@ -18,3 +18,5 @@ DEPLOYMENT
 
 CREDITS
 
+Love running- meta data: description and keywords. meta data changed to suit my project.
+            core structure for home page - changed 
