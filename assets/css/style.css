@@ -56,7 +56,7 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 2px double #DC143C;
+    border-bottom: 4px double #DC143C;
 }
 
 .active {
