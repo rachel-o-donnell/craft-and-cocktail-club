@@ -59,6 +59,14 @@ h1, h2 {
     border-bottom: 2px double #DC143C;
 }
 
-#active {
-    border-bottom: 2px double #DC143C;
+.active {
+    border-bottom: 4px double #DC143C;
+}
+
+/* hero image */
+
+#hero-cocktail {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero\ image.jpeg) no-repeat center center;
 }
