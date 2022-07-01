@@ -27,4 +27,18 @@ Love running- meta data: description and keywords. changed to suit my project.
             basic nav bar and header structure
 
  logo structure and styling. Changed font family, weights, colors size and letter spacing
+
+ styling menu bar - started with Love running - then researched how to prevent reverse order
             
+           fixing reverse order in menu bar float: google answer from stack overflow  https://stackoverflow.com/questions/23737414/why-menu-created-with-ul-li-elements-displayed-in-reverse-order answer by rajesh kakawat
+    Changed the menu ul to float left, menu li to float right in order to be on one line in correct order. 
+    menu LR 
+    menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
+    active nav style -- LR but changed all to match my menu hover styling
+
+
+
+USED:
+Stack Overflow
+Google
+W3
