@@ -1,26 +1,56 @@
-Craft and Cocktail Club.
+# CRAFT AND COCKTAIL CLUB.
 
 Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members . It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. I will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups and how-to videos, and see the bespoke cocktail of the week suggested by the venue- Galway City Distillery.
 
-FEATURES
+___
 
-Nav bar
-Font
+## FEATURES:
+
+* ### Nav bar:
+
+* ### Font:
 Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
 
-Colour choice
+* ### Colour choice:
 inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
 I chose only one color as the font weights made an impact on the vibrancy of the color and I didnt like that darker read were too brown or purple. 
-Footer
-Gallery
-Map
-Sign up
 
-TESTING
+* ### Footer:
 
-DEPLOYMENT
+* ### Gallery:
 
-CREDITS
+* ### Map:
+
+* ### Sign up:
+
+___
+
+## UX/UI:
+
+___
+
+## TESTING:
+screen shots or links to validators
+manual testing with multiple browsers and devices. screenshots.
+
+___
+
+## TECHNOLOGIES USED:
+
+Html
+Css
+
+___
+
+## DEPLOYMENT:
+(bullet point walk through of HOW)
+cloning and forking
+local deployment
+remote deployment (live on github pages)
+
+___
+
+## CREDITS:
 
 Love running- meta data: description and keywords. changed to suit my project.
             core structure for home page - changed 
@@ -36,6 +66,13 @@ Love running- meta data: description and keywords. changed to suit my project.
     menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
     active nav style -- LR but changed all to match my menu hover styling
 
+    hero image:
+    changed height, width (used repeat to fill the screen)
+    
+    ___
+## IMAGES: 
+
+Images can be found here...
 images: https://www.shopkdd.com/yarn/milarrochy-tweed-sampler-pack#gallery-1 circle yarns
 https://www.ashford.co.nz/ashford-dk-yarn square yarns 
 https://www.pinterest.co.uk/pin/836473330802828625/?mt=login cocktail
@@ -48,7 +85,13 @@ https://www.etsy.com/ie/listing/664135725/mini-cocktail-martini-machine-embroide
 https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive?epik=dj0yJnU9N1ZxQWlyTE9DRFhvUnluSHpUdTRYcFI3ZXBKSGcwVUsmcD0wJm49Y0JmRms2dVFvZk8wbUdfODExYWowZyZ0PUFBQUFBR0tfQi1J red embroidered cocktail
 
 Image used for educational purposes only I do not have the rights to this image.
-USED:
+
+___
+
+## RESOURCES USED
+
 Stack Overflow
 Google
 W3
+
+___
