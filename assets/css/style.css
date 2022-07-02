@@ -65,6 +65,12 @@ h1, h2 {
 
 /* hero image */
 
+#hero-outer {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-cocktail {
     height: 700px;
     width: 100%;
