@@ -58,7 +58,7 @@ h1, h2 {
 #nav a {
     text-decoration: none;
     color: inherit;
-    padding: 0.7rem;
+    margin: 10px;
 }
 
 #nav a:hover {
