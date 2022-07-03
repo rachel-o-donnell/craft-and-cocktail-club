@@ -33,7 +33,7 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-#nav #logo {
+.logo-nav {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -41,7 +41,6 @@ h1, h2 {
 }
 
 #nav li {
-    
     list-style-type: none;
     margin-right: 40px
 
