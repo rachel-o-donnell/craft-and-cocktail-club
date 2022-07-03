@@ -38,6 +38,9 @@ h1, h2 {
     justify-content: center;
     text-align: center;
     align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
 }
 
 #nav a {
