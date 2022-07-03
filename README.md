@@ -87,7 +87,8 @@ Love running- meta data: description and keywords. changed to suit my project.
 
     https://www.google.com/search?q=how+to+make+mobile+first+website&oq=how+to+write+mobile+first+&aqs=chrome.2.0i512j69i57j0i22i30j0i10i22i30j0i22i30l3j0i15i22i30j0i390l2.16112j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:71362564,vid:XsEnj-1hG2o,st:0
 
-    
+MARKDOWN format learnings from below
+https://www.youtube.com/watch?v=HUBNt18RFbo
 
     ___
 ## IMAGES: 
