@@ -26,6 +26,8 @@ h1, h2 {
     font-size: 1.3rem;
 }
 
+
+
 /* navigation links */ 
 
 #nav {
@@ -47,12 +49,16 @@ h1, h2 {
     margin-top: 1rem;
 }
 
+.logo-nav a {
+    text-decoration: none;
+}
+
+
 
 #nav a {
     text-decoration: none;
     color: inherit;
     padding: 0.7rem;
-
 }
 
 #nav a:hover {
