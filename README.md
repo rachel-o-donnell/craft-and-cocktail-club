@@ -8,6 +8,8 @@ ___
 
 * ### Nav bar:
 
+
+
 * ### Font:
 Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
 
@@ -64,6 +66,15 @@ Love running- meta data: description and keywords. changed to suit my project.
     Changed the menu ul to float left, menu li to float right in order to be on one line in correct order. 
     menu LR 
     menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
+
+    MOBILE FIRST DESIGN: 
+
+    changed logo and nav bar to have mobile first design usin flexbox flex froggy and below video. 
+    https://www.google.com/search?q=creating+a+nav+bar+for+mobile+first&oq=creating+a+nav+bar+for+mobile+first+&aqs=chrome..69i57j33i10i160l5.20679j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_Mn3BYpvUKc-DgQabn5CoCQ29
+    ...changed to suit my project styling.
+
+    changed logo and nav bar to have mobile first design usin flexbox flex froggy
+
     active nav style -- LR but changed all to match my menu hover styling
 
     hero image:
@@ -98,5 +109,7 @@ Google
 W3
 Balsamiq 
 Youtube
+Devtools
+Flex froggy
 
 ___
