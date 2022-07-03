@@ -29,8 +29,12 @@ h1, h2 {
 /* navigation links */ 
 
 #nav {
-    font-size: 100%;
+    font-size: .8rem;
     letter-spacing: 4px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    list-style: none;
 }
 
 .logo-nav {
