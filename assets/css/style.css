@@ -40,20 +40,20 @@ h1, h2 {
     align-items: center;
 }
 
-#menu li {
+#nav li {
     
     list-style-type: none;
     margin-right: 40px
 
 }
 
-#menu a {
+#nav a {
     text-decoration: none;
     color: inherit;
 
 }
 
-#menu a:hover {
+#nav a:hover {
     border-bottom: 4px double #DC143C;
 }
 
