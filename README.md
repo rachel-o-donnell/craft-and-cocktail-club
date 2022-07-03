@@ -67,6 +67,8 @@ Love running- meta data: description and keywords. changed to suit my project.
     menu LR 
     menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
 
+
+
     MOBILE FIRST DESIGN: 
 
     changed logo and nav bar to have mobile first design usin flexbox flex froggy and below video. 
@@ -76,7 +78,8 @@ Love running- meta data: description and keywords. changed to suit my project.
     changed logo and nav bar to have mobile first design usin flexbox flex froggy
 
     active nav style -- LR but changed all to match my menu hover styling
-
+    when I adapted to flexbox I used margin style tips from https://www.youtube.com/watch?v=RSIclWvNTdQ to remove the space I had created beneath my Nav item and its active page underline.
+    
     hero image:
     changed height, width (used repeat to fill the screen)
     
