@@ -79,10 +79,16 @@ Love running- meta data: description and keywords. changed to suit my project.
 
     active nav style -- LR but changed all to match my menu hover styling
     when I adapted to flexbox I used margin style tips from https://www.youtube.com/watch?v=RSIclWvNTdQ to remove the space I had created beneath my Nav item and its active page underline.
-    
+
     hero image:
-    changed height, width (used repeat to fill the screen)
+
+    styling image for responiveness (flexbox) used  w3 to help with syntax of inserting into html and a combo of below links to style 
+    https://www.google.com/search?q=creating+a+nav+bar+for+mobile+first&oq=creating+a+nav+bar+for+mobile+first+&aqs=chrome..69i57j33i10i160l5.20679j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_Mn3BYpvUKc-DgQabn5CoCQ29
+
+    https://www.google.com/search?q=how+to+make+mobile+first+website&oq=how+to+write+mobile+first+&aqs=chrome.2.0i512j69i57j0i22i30j0i10i22i30j0i22i30l3j0i15i22i30j0i390l2.16112j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:71362564,vid:XsEnj-1hG2o,st:0
+
     
+
     ___
 ## IMAGES: 
 
