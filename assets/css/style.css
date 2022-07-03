@@ -28,12 +28,12 @@ h1, h2 {
 
 /* navigation links */ 
 
-#menu {
+#nav {
     font-size: 100%;
     letter-spacing: 4px;
 }
 
-#menu #logo {
+#nav #logo {
     display: flex;
     justify-content: center;
     text-align: center;
