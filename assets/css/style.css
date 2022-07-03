@@ -69,16 +69,8 @@ h1, h2 {
     border-bottom: 4px double #DC143C;
 }
 
-/* hero image */
-
-#hero-outer {
-    height: 700px;
+img {
+    display: block;
     width: 100%;
-    overflow: hidden;
-}
-
-#hero-cocktail {
-    height: 80%;
-    width: 100%;
-    background: url(../images/hero.cocktail.jpeg) no-repeat center center;
+    height: auto;
 }
