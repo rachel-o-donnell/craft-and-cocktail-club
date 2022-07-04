@@ -67,7 +67,8 @@ Love running- meta data: description and keywords. changed to suit my project.
     menu LR 
     menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
 
-
+Saving and optimizing images for SEO: 
+https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
 
     MOBILE FIRST DESIGN: 
 
@@ -94,6 +95,7 @@ https://www.youtube.com/watch?v=HUBNt18RFbo
 ## IMAGES: 
 
 Images can be found here...
+THIS MONTHS COCKTAIL: https://www.pinterest.co.uk/pin/836473330802828625/?mt=login
 images: https://www.shopkdd.com/yarn/milarrochy-tweed-sampler-pack#gallery-1 circle yarns
 https://www.ashford.co.nz/ashford-dk-yarn square yarns 
 https://www.pinterest.co.uk/pin/836473330802828625/?mt=login cocktail
