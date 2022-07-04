@@ -1,33 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poiret+One&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
-body {
-    font-family: Poiret-One, sans-serif;
-    font-weight: 300;
-    color: #DC143C;
-}
-
-/*headings and logo*/ 
-
-h1, h2 {
-    font-family: Abril-Fatface sans-serif;
-    letter-spacing: 4px;
-    color: #DC143C;
-
-}
-
-#logo {
-    float: left;
-    font-size: 190%;
-    @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poiret+One&display=swap');
-}
-
-* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -100,3 +73,6 @@ img {
     height: auto;
 }
 
+/*footer*/
+
+#footer 
