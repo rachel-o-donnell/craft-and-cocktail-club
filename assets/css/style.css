@@ -26,8 +26,6 @@ h1, h2 {
     font-size: 1.3rem;
 }
 
-
-
 /* navigation links */ 
 
 #nav {
@@ -75,5 +73,12 @@ img {
 
 /*footer*/
 
-footer {
+#footer { 
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    justify-content: space-evenly;
 }
