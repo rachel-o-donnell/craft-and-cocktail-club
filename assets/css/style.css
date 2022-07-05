@@ -65,10 +65,18 @@ h1, h2 {
     border-bottom: 4px double #DC143C;
 }
 
+/* images*/
+
 img {
     display: block;
     width: 100%;
     height: auto;
+}
+
+/* welcome text */
+
+#welcome {
+    font-size: .8rem;
 }
 
 /*footer*/
