@@ -99,7 +99,7 @@ img {
     flex-direction: row;
     list-style: none;
     align-items: center;
-    justify-content: center;
     margin: 20px;
+    padding: 20px;
     justify-content: space-evenly;
 }
