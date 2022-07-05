@@ -33,11 +33,11 @@ h1, h3 {
 /* navigation links */ 
 
 #nav {
-    font-size: .7rem;
+    font-size: .6rem;
     letter-spacing: 4px;
     display: flex;
     align-items: center;
-    margin: 20px;
+    margin: 10px;
     list-style: none;
 }
 
