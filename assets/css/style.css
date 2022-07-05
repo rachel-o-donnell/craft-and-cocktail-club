@@ -6,7 +6,7 @@
     box-sizing: border-box;
     background-color: #fffbff}
 
-body {
+body, h4 {
     font-family: Poiret-One, sans-serif;
     font-weight: 400;
     margin: 1rem;
