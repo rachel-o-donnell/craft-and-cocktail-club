@@ -11,11 +11,15 @@ body {
     font-weight: 400;
     margin: auto;
     color: #DC143C;
+    letter-spacing: 1px;
 }
 
+p {
+    margin-bottom: 1rem;
+}
 /*headings and logo*/ 
 
-h1, h2 {
+h1, h3 {
     font-family: Abril-Fatface sans-serif;
     letter-spacing: 4px;
     margin: auto;
@@ -77,6 +81,8 @@ img {
 
 #welcome {
     font-size: .8rem;
+    text-align: center;
+    
 }
 
 /*footer*/
