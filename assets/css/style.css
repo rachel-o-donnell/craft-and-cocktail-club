@@ -85,6 +85,13 @@ img {
     
 }
 
+.monthly {
+    font-size: .9rem;
+    text-align: center;
+    margin: 20px;
+}
+
+
 /*footer*/
 
 #footer { 
