@@ -9,7 +9,7 @@
 body {
     font-family: Poiret-One, sans-serif;
     font-weight: 400;
-    margin: auto;
+    margin: 1rem;
     color: #DC143C;
     letter-spacing: 1px;
 }
@@ -33,7 +33,7 @@ h1, h3 {
 /* navigation links */ 
 
 #nav {
-    font-size: .8rem;
+    font-size: .7rem;
     letter-spacing: 4px;
     display: flex;
     align-items: center;
@@ -48,7 +48,7 @@ h1, h3 {
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 0.5rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
 }
 
 .logo-nav a {
