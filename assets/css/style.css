@@ -4,9 +4,11 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-color: #fffbff}
+    background-color: #fffbff
+}
 
-body, h4 {
+body,
+h4 {
     font-family: Poiret-One, sans-serif;
     font-weight: 400;
     margin: 1rem;
@@ -17,9 +19,11 @@ body, h4 {
 p {
     margin-bottom: 1rem;
 }
-/*headings and logo*/ 
 
-h1, h3 {
+/*headings and logo*/
+
+h1,
+h3 {
     font-family: Abril-Fatface sans-serif;
     letter-spacing: 4px;
     margin: auto;
@@ -31,7 +35,7 @@ h1, h3 {
     margin: 20px 0;
 }
 
-/* navigation links */ 
+/* navigation links */
 
 #nav {
     font-size: .6rem;
@@ -53,7 +57,7 @@ h1, h3 {
 }
 
 .logo-nav a {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 #nav a {
@@ -83,7 +87,7 @@ img {
 #welcome {
     font-size: .8rem;
     text-align: center;
-    
+
 }
 
 .monthly {
@@ -95,7 +99,7 @@ img {
 
 /*footer*/
 
-#footer { 
+#footer {
     display: flex;
     flex-direction: row;
     list-style: none;
@@ -103,4 +107,19 @@ img {
     margin: 20px;
     padding: 20px;
     justify-content: space-evenly;
+}
+
+#video {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+#video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }

@@ -90,6 +90,10 @@ https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
 
     Footer - style using the nav bar info along with flexbox froggy to style.
 
+    
+https://www.youtube.com/watch?v=ly36kn0ug4k - couldnt remeber how to paste a you tube video.
+https://www.youtube.com/watch?v=9YffrCViTVk making the video responsive.
+
 MARKDOWN format learnings from below
 https://www.youtube.com/watch?v=HUBNt18RFbo
 
