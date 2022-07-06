@@ -136,6 +136,9 @@ Photo by Ron Lach from Pexels various cocktails
 Photo by Ron Lach from Pexels cocktail being made
 Photo by Luciann Photography from Pexels neon cocktail sign
 Photo by Nadin Sh from Pexels passionfruit cocktail
+
+https://www.youtube.com/watch?v=m85aQc2n7JA
+withwendy: tapestry weaving essentials (everything you need)
 ## WIREFRAMES:
 
 Balsmaiq
