@@ -107,6 +107,8 @@ https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox-
 MARKDOWN format learnings from below
 https://www.youtube.com/watch?v=HUBNt18RFbo
 
+RESPONSIVE GOOGLE MAPS: (WITHOUT API KEY SECTION)
+https://blog.duda.co/responsive-google-maps-for-your-website - changed to suit my project
     ___
 ## IMAGES: 
 
@@ -166,5 +168,6 @@ Balsamiq
 Youtube
 Devtools
 Flex froggy
+google maps
 
 ___
