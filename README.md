@@ -100,6 +100,10 @@ added a margin to separate the video from the gallery images and nav bar
 ##Join us
 form from LR. adapted to suit what I want.
 
+Creating and styling a flexbox form - restyled and changes to suit my design
+
+https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
+
 MARKDOWN format learnings from below
 https://www.youtube.com/watch?v=HUBNt18RFbo
 
