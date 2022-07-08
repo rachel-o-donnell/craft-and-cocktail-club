@@ -95,9 +95,8 @@ img {
     font-size: .9rem;
     text-align: center;
     margin: 20px;
+    text-transform: capitalize;
 }
-
-
 /*footer*/
 
 #footer {
