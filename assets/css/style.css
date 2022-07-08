@@ -129,3 +129,10 @@ img {
 }
 
 /* form */
+
+#form-outer li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-decoration: none;
+}
