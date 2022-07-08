@@ -166,3 +166,21 @@ button {
 .text {
     font-size: .8rem
 }
+
+/* map */
+
+
+.map-response {
+    overflow: hidden;
+    padding-bottom: 100%;
+    position: relative;
+    height: 0;
+}
+
+.map-response iframe {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 20px;
+}
