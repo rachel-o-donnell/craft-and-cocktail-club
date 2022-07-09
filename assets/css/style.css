@@ -84,7 +84,8 @@ img {
 
 /* welcome text */
 
-#welcome ,#address {
+#welcome,
+#address {
     font-size: .8rem;
     text-align: center;
     margin-top: 10%;
@@ -97,6 +98,7 @@ img {
     margin: 20px;
     text-transform: capitalize;
 }
+
 /*footer*/
 
 #footer {
@@ -136,19 +138,19 @@ img {
     align-items: center;
     text-decoration: none;
 }
-  
-#form-outer > li >label, 
+
+#form-outer>li>label,
 #form-outer li p {
     flex: 10 10 100px;
     max-width: 320px;
     margin: 4%;
 }
 
-#form-outer >li >h3 {
+#form-outer>li>h3 {
     margin-block-start: 1em;
     margin-block-end: 1em;
 
-    
+
 }
 
 button {
