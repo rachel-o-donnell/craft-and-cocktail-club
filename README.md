@@ -156,5 +156,6 @@ Youtube
 Devtools
 Flex froggy
 google maps
+Ezgif.com - to compress images and reduces
 
 ___
