@@ -92,6 +92,10 @@ img {
 
 }
 
+#greeting {
+    margin-bottom: 6%;
+}
+
 .monthly {
     font-size: .9rem;
     text-align: center;
