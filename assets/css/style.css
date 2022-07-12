@@ -90,7 +90,7 @@ h3 {
 /* for screens that are 1201px or above*/
 @media screen and (min-width: 75em) { 
     #logo {
-    font-size: 2.1rem;
+    font-size: 2.3rem;
 }
 }
 
@@ -112,6 +112,14 @@ h3 {
     
 }
 }
+
+/* for screens that are 1201px or above*/
+@media screen and (min-width: 75em) { 
+    #nav{
+    font-size: 1rem;
+}
+}
+
 .logo-nav {
     display: flex;
     justify-content: center;
@@ -122,6 +130,12 @@ h3 {
     margin-top: 2rem;
 }
 
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    .logo-nav {
+        justify-content: space-between; 
+    }
+}
 .logo-nav a {
     text-decoration: none;
 }
