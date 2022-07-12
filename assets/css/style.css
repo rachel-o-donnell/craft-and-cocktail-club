@@ -15,12 +15,19 @@ h4 {
     color: #DC143C;
     letter-spacing: 1px;
 }
-
-/* for screens that are 481px or below*/
-@media screen and (max-width: 481px) { 
+/* for screens that are 320px or below 
+@media  and (max-width: 20em) {
     body,
     h4 {
-    margin: 2rem ;
+        margin: 1em;}
+    
+}*/
+
+/* for screens that are 481px or above*/
+@media screen and (min-width: 30em) { 
+    body,
+    h4 {
+    margin: 2em;
 }
 }
 
@@ -43,10 +50,11 @@ h3 {
     margin: 20px 0;
 }
 
-/* for screens that are 481px or below*/
-@media screen (max-width: 481px) { 
-    font-size: ;
-    
+/* for screens that are 481px or above*/
+@media screen and (min-width: 30em) { 
+    #logo {
+    font-size: 2.1rem;
+}
 }
 
 /* navigation links */
