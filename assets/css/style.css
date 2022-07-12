@@ -15,13 +15,6 @@ h4 {
     color: #DC143C;
     letter-spacing: 1px;
 }
-/* for screens that are 320px or below 
-@media  and (max-width: 20em) {
-    body,
-    h4 {
-        margin: 1em;}
-    
-}*/
 
 /* for screens that are 481px or above*/
 @media screen and (min-width: 30em) { 
@@ -31,6 +24,30 @@ h4 {
 }
 }
 
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    body,
+    h4 {
+    margin: 4em;
+}
+}
+
+/* for screens that are 1024px or above*/
+@media screen and (min-width: 64em) { 
+    body,
+    h4 {
+    margin: 8em;
+}
+}
+
+/* for screens that are 1201px or above*/
+@media screen and (min-width: 75em) { 
+    body,
+    h4 {
+    margin: 10em;
+}
+
+}
 p {
     margin-bottom: 1rem;
 }
@@ -56,6 +73,26 @@ h3 {
     font-size: 2.1rem;
 }
 }
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    #logo {
+        font-size: 1.4rem; 
+    
+}
+}
+
+/* for screens that are 1024px or above*/
+@media screen and (min-width: 64em) { 
+    #logo {
+    font-size: 2.1rem;
+}
+}
+/* for screens that are 1201px or above*/
+@media screen and (min-width: 75em) { 
+    #logo {
+    font-size: 2.1rem;
+}
+}
 
 /* navigation links */
 
@@ -68,6 +105,13 @@ h3 {
     list-style: none;
 }
 
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    #nav {
+        font-size: .8rem; 
+    
+}
+}
 .logo-nav {
     display: flex;
     justify-content: center;
