@@ -130,6 +130,11 @@ https://www.youtube.com/watch?v=HUBNt18RFbo
 
 RESPONSIVE GOOGLE MAPS: (WITHOUT API KEY SECTION)
 https://blog.duda.co/responsive-google-maps-for-your-website - changed to suit my project
+
+media query ideas from here- using rem/em
+https://www.youtube.com/watch?v=IsC5-C_nuF4
+https://www.w3schools.com/tags/ref_pxtoemconversion.asp - px converter 
+https://freshman.tech/flexbox-navbar/ - adjusting the navbar in flexbox- could not remember how to get it against left and right.
     ___
 ## IMAGES: 
 
