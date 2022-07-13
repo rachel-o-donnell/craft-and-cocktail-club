@@ -162,14 +162,32 @@ img {
     height: auto;
 }
 
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    #hero-image {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+
 /* welcome text */
 
 #welcome,
 #address {
     font-size: .8rem;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 2rem;
 
+}
+
+/* for screens that are 481px or above*/
+@media screen and (min-width: 30em) { 
+    #welcome, 
+    #address {
+    font-size: 1rem;
+}
 }
 
 #greeting {
