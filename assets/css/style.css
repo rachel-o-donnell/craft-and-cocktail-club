@@ -162,6 +162,8 @@ img {
     height: auto;
 }
 
+.monthly-img
+
 /* for screens that are 769px or above*/
 @media screen and (min-width: 48em) { 
     #hero-image {
@@ -170,7 +172,6 @@ img {
         margin-right: auto;
     }
 }
-
 
 /* welcome text */
 
@@ -194,6 +195,15 @@ img {
     margin-bottom: 6%;
 }
 
+/* monthly focuses */
+
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    .monthly-img {
+       
+    }
+}
+
 .monthly {
     font-size: .9rem;
     text-align: center;
@@ -201,6 +211,59 @@ img {
     text-transform: capitalize;
 }
 
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    .monthly-container {
+        display: grid;
+    grid-template-columns: 50% auto;
+    grid-template-rows: 50% 25% 25%;
+    grid-template-areas: "craft cocktail"
+                         "craft-h3 cocktail-h3"
+                         "craft-h4 cocktail-h4";
+    }
+    }
+
+    /* for screens that are 769px or above*/
+@media screen and (min-width: 48em) {
+    #craft { 
+        grid-area: craft;
+    }
+}
+
+    /* for screens that are 769px or above*/
+ @media screen and (min-width: 48em) {
+        #cocktail { 
+            grid-area: cocktail;
+        }
+    }
+
+        /* for screens that are 769px or above*/
+@media screen and (min-width: 48em) {
+    #craft-focus { 
+        grid-area: craft-h3;
+    }
+}
+
+        /* for screens that are 769px or above*/
+ @media screen and (min-width: 48em) {
+            #craft-type { 
+                grid-area: craft-h4;
+            }
+        }
+
+         /* for screens that are 769px or above*/
+@media screen and (min-width: 48em) {
+    #cocktail-focus { 
+        grid-area: cocktail-h3;
+    }
+}  
+
+        /* for screens that are 769px or above*/
+        @media screen and (min-width: 48em) {
+            #cocktail-type { 
+                grid-area: cocktail-h4;
+            }
+        }
 /*footer*/
 
 #footer {
