@@ -16,38 +16,6 @@ h4 {
     letter-spacing: 1px;
 }
 
-/* for screens that are 481px or above*/
-@media screen and (min-width: 30em) { 
-    body,
-    h4 {
-    margin: 2em;
-}
-}
-
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    body,
-    h4 {
-    margin: 4em;
-}
-}
-
-/* for screens that are 1024px or above*/
-@media screen and (min-width: 64em) { 
-    body,
-    h4 {
-    margin: 2em 8em;
-}
-}
-
-/* for screens that are 1201px or above*/
-@media screen and (min-width: 75em) { 
-    body,
-    h4 {
-    margin: 2em 10em;
-}
-
-}
 p {
     margin-bottom: 1rem;
 }
@@ -67,44 +35,9 @@ h2 {
     margin-bottom: 2rem
 }
 
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    h2 {
-    font-size: 2em;
-}
-}
-
-
 #logo {
     font-size: 1.2rem;
     margin: 20px 0;
-}
-
-/* for screens that are 481px or above*/
-@media screen and (min-width: 30em) { 
-    #logo {
-    font-size: 2.1rem;
-}
-}
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    #logo {
-        font-size: 1.4rem; 
-    
-}
-}
-
-/* for screens that are 1024px or above*/
-@media screen and (min-width: 64em) { 
-    #logo {
-    font-size: 2.1rem;
-}
-}
-/* for screens that are 1201px or above*/
-@media screen and (min-width: 75em) { 
-    #logo {
-    font-size: 2.3rem;
-}
 }
 
 /* navigation links */
@@ -118,21 +51,6 @@ h2 {
     list-style: none;
 }
 
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    #nav {
-        font-size: .8rem; 
-    
-}
-}
-
-/* for screens that are 1201px or above*/
-@media screen and (min-width: 75em) { 
-    #nav{
-    font-size: 1rem;
-}
-}
-
 .logo-nav {
     display: flex;
     justify-content: center;
@@ -143,12 +61,6 @@ h2 {
     margin-top: 2rem;
 }
 
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    .logo-nav {
-        justify-content: space-between; 
-    }
-}
 .logo-nav a {
     text-decoration: none;
 }
@@ -174,18 +86,6 @@ img {
     width: 100%;
     height: auto;
 }
-
-.monthly-img
-
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    #hero-image {
-        width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
 /* welcome text */
 
 #welcome,
@@ -196,34 +96,12 @@ img {
     margin-bottom: 3rem;
 }
 
-/* for screens that are 481px or above*/
-@media screen and (min-width: 30em) { 
-    #welcome, 
-    #address {
-    font-size: 1rem;
-}
-}
-
 #greeting {
     margin-bottom: 6%;
 }
 
-@media screen and (min-width: 48em) {
-#hero-image {
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-}
-} 
 
 /* monthly focuses */
-
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    .monthly-img {
-       
-    }
-}
 
 .monthly {
     font-size: .9rem;
@@ -232,59 +110,6 @@ img {
     text-transform: capitalize;
 }
 
-/* for screens that are 769px or above*/
-@media screen and (min-width: 48em) { 
-    .monthly-container {
-        display: grid;
-    grid-template-columns: 50% auto;
-   /* grid-template-rows: 50% 25% 25%; */
-    grid-template-areas: "craft cocktail"
-                         "craft-h3 cocktail-h3"
-                         "craft-h4 cocktail-h4";
-    }
-    }
-
-    /* for screens that are 769px or above*/
-@media screen and (min-width: 48em) {
-    #craft { 
-        grid-area: craft;
-    }
-}
-
-    /* for screens that are 769px or above*/
- @media screen and (min-width: 48em) {
-        #cocktail { 
-            grid-area: cocktail;
-        }
-    }
-
-        /* for screens that are 769px or above*/
-@media screen and (min-width: 48em) {
-    #craft-focus { 
-        grid-area: craft-h3;
-    }
-}
-
-        /* for screens that are 769px or above*/
- @media screen and (min-width: 48em) {
-            #craft-type { 
-                grid-area: craft-h4;
-            }
-        }
-
-         /* for screens that are 769px or above*/
-@media screen and (min-width: 48em) {
-    #cocktail-focus { 
-        grid-area: cocktail-h3;
-    }
-}  
-
-        /* for screens that are 769px or above*/
-        @media screen and (min-width: 48em) {
-            #cocktail-type { 
-                grid-area: cocktail-h4;
-            }
-        }
 /*footer*/
 
 #footer {
@@ -298,12 +123,6 @@ img {
     margin-top: 5rem;
 }
 
-  /* for screens that are 769px or above*/
-  @media screen and (min-width: 48em) {
-    #footer{ 
-        font-size: 2em;
-    }
-}
 /* video */
 
 #video {
@@ -378,4 +197,188 @@ button {
     position: absolute;
     left: 0;
     top: 20px;
+}
+
+/* media queries */ 
+
+/* for screens that are 481px or above*/
+@media screen and (min-width: 30em) { 
+    body,
+    h4 {
+    margin: 2em;
+}
+}
+/*logo*/
+
+@media screen and (min-width: 30em) { 
+    #logo {
+    font-size: 2.1rem;
+}
+}
+
+ /* welcome and address text*/
+@media screen and (min-width: 30em) { 
+    #welcome, 
+    #address {
+    font-size: 1rem;
+}
+}
+
+
+/* for screens that are 769px or above*/
+
+@media screen and (min-width: 48em) { 
+    body,
+    h4 {
+    margin: 4em;
+}
+}
+
+/*headings and logo*/
+
+@media screen and (min-width: 48em) { 
+    h2 {
+    font-size: 2em;
+}
+}
+
+@media screen and (min-width: 48em) { 
+    h3,
+    h4 {
+    font-size: 1.4em;
+}
+}
+
+@media screen and (min-width: 48em) { 
+    #logo {
+        font-size: 1.4rem; 
+    
+}
+}
+/* nav */
+
+@media screen and (min-width: 48em) { 
+    #nav {
+        font-size: .8rem; 
+}
+}
+
+@media screen and (min-width: 48em) { 
+    .logo-nav {
+        justify-content: space-between; 
+    }
+}
+
+/* hero-image */
+@media screen and (min-width: 48em) { 
+    #hero-image {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+   /* GRID */
+
+@media screen and (min-width: 48em) {
+    .monthly { 
+        font-size: 1em;
+    }
+}
+
+@media screen and (min-width: 48em) { 
+    .monthly-container {
+        display: grid;
+        grid-template-columns: 50% auto;
+        grid-template-areas: "craft cocktail"
+                         "craft-h3 cocktail-h3"
+                         "craft-h4 cocktail-h4";
+    }
+}
+
+    
+@media screen and (min-width: 48em) {
+    #craft { 
+        grid-area: craft;
+    }
+}
+
+ @media screen and (min-width: 48em) {
+     #cocktail { 
+        grid-area: cocktail;
+    }
+ }
+
+       
+@media screen and (min-width: 48em) {
+    #craft-focus { 
+        grid-area: craft-h3;
+    }
+}
+
+    
+ @media screen and (min-width: 48em) {
+     #craft-type { 
+        grid-area: craft-h4;
+    }
+}
+
+       
+@media screen and (min-width: 48em) {
+    #cocktail-focus { 
+        grid-area: cocktail-h3;
+    }
+}  
+
+      
+@media screen and (min-width: 48em) {
+    #cocktail-type { 
+         grid-area: cocktail-h4;
+    }
+ }
+
+   /* footer */
+@media screen and (min-width: 48em) {
+    #footer{ 
+        font-size: 2em;
+    }
+}
+
+/* for screens that are 1024px or above*/
+
+
+@media screen and (min-width: 64em) { 
+    body,
+    h4 {
+    margin: 2em 8em;
+}
+}
+
+/* logo */
+
+@media screen and (min-width: 64em) { 
+    #logo {
+    font-size: 2.1rem;
+}
+}
+
+/* for screens that are 1201px or above*/
+
+@media screen and (min-width: 75em) { 
+    body,
+    h4 {
+    margin: 2em 10em;}
+ }
+ /* logo and nav */
+
+@media screen and (min-width: 75em) { 
+    #logo {
+    font-size: 2.3rem;
+}
+}
+
+@media screen and (min-width: 75em) { 
+    #nav{
+    font-size: 1rem;
+}
 }
