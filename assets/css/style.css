@@ -55,12 +55,25 @@ p {
 /*headings and logo*/
 
 h1,
+h2,
 h3 {
     font-family: Abril-Fatface sans-serif;
     letter-spacing: 4px;
     margin: auto;
     color: #DC143C;
 }
+
+h2 {
+    margin-bottom: 2rem
+}
+
+/* for screens that are 769px or above*/
+@media screen and (min-width: 48em) { 
+    h2 {
+    font-size: 2em;
+}
+}
+
 
 #logo {
     font-size: 1.2rem;
@@ -180,7 +193,7 @@ img {
     font-size: .8rem;
     text-align: center;
     margin-top: 2rem;
-
+    margin-bottom: 3rem;
 }
 
 /* for screens that are 481px or above*/
