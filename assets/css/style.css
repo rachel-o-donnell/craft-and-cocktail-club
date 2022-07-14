@@ -195,6 +195,14 @@ img {
     margin-bottom: 6%;
 }
 
+@media screen and (min-width: 48em)
+<style>
+#hero-image {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* monthly focuses */
 
 /* for screens that are 769px or above*/
