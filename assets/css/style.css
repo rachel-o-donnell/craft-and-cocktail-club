@@ -216,7 +216,7 @@ img {
     .monthly-container {
         display: grid;
     grid-template-columns: 50% auto;
-    grid-template-rows: 50% 25% 25%;
+   /* grid-template-rows: 50% 25% 25%; */
     grid-template-areas: "craft cocktail"
                          "craft-h3 cocktail-h3"
                          "craft-h4 cocktail-h4";
