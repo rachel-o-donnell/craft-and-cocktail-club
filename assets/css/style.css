@@ -195,13 +195,13 @@ img {
     margin-bottom: 6%;
 }
 
-@media screen and (min-width: 48em)
-<style>
+@media screen and (min-width: 48em) {
 #hero-image {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
+} 
 
 /* monthly focuses */
 
@@ -282,8 +282,15 @@ img {
     margin: 20px;
     padding: 20px;
     justify-content: space-evenly;
+    margin-top: 5rem;
 }
 
+  /* for screens that are 769px or above*/
+  @media screen and (min-width: 48em) {
+    #footer{ 
+        font-size: 2em;
+    }
+}
 /* video */
 
 #video {
