@@ -9,7 +9,8 @@ ___
 bugs fixed:
 
 nav bar not flush with side in bigger screen- removed margin in media query
-
+images sticking to the left after resizing- added display flex
+added containers around map to fit in flex display
 * ### Nav bar:
 
 
