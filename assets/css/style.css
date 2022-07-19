@@ -474,6 +474,10 @@ button {
     }
 }
 
+#video-container {
+    width: 75%;
+    margin: 20px auto 30px;
+}
 
 /* for screens that are 1201px or above*/
 
