@@ -144,12 +144,17 @@ img {
 
 /* form */
 
+#form {
+
+}
+
 #form-outer li {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     text-decoration: none;
     justify-content: space-evenly;
+    background-color: #DC143C;
 }
 
 #form-outer>li>label,
