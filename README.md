@@ -6,6 +6,10 @@ ___
 
 ## FEATURES:
 
+bugs fixed:
+
+nav bar not flush with side in bigger screen- removed margin in media query
+
 * ### Nav bar:
 
 
