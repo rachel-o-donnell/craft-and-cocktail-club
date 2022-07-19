@@ -25,7 +25,7 @@ p {
 h1,
 h2,
 h3 {
-    font-family: Abril-Fatface sans-serif;
+    font-family: Abril-Fatface, sans-serif;
     letter-spacing: 4px;
     margin: auto;
     color: #DC143C;
@@ -145,7 +145,7 @@ img {
 /* form */
 
 #form {
-
+    padding: 10%;
 }
 
 #form-outer li {
@@ -159,7 +159,6 @@ img {
 
 #form-outer>li>label,
 #form-outer li p {
-    flex: 10 10 100px;
     max-width: 320px;
     margin: 4%;
 }
@@ -174,12 +173,13 @@ img {
 button {
     padding: 5px 10px;
     border: none;
-    color: #fffbff;
-    background-color: #DC143C;
+    color: #DC143C;
+    background-color: #fffbff ;
     letter-spacing: 4px;
     margin: 4%;
     margin-inline: auto;
     font-size: .8rem;
+    margin-bottom: 2em;
 
 }
 
@@ -410,13 +410,6 @@ button {
     }
 }
 
-/* form */
-
-@media screen and (min-width: em) {
-    #form-outer { 
-        display: flex;
-    }
-}
 
 /* for screens that are 1201px or above*/
 
