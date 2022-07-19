@@ -81,6 +81,14 @@ h2 {
 
 /* images*/
 
+#hero-image {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -176,7 +184,7 @@ img {
 #form-outer li p {
     max-width: 320px;
     margin: 4%;
-    background-color: #;
+    background-color: #DC143C;
 }
 
 #form-outer>li>h3 {
@@ -199,7 +207,7 @@ button {
 }
 
 .text {
-    font-size: .8rem
+    font-size: .8rem;
 }
 
 /* map */
