@@ -501,6 +501,7 @@ button {
 
 /* join-image*/
 @media screen and (min-width: 75em) {
+    #hero-image,
     #join-image {
         max-width: 30%;
     }
