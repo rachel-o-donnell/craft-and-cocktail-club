@@ -183,12 +183,12 @@ img {
 
 #form-outer >li >label,
 #form-outer li p {
-    max-width: 320px;
+    width: 20%;
     margin: 4%;
     background-color: #DC143C;
 }
 
-#form-outer >li >h3 {
+#form-outer>li>h3 {
     margin-block-start: 1em;
     margin-block-end: 1em;
     color: #fffbff;
@@ -208,7 +208,9 @@ button {
 }
 
 .text {
-    font-size: .8rem;
+    font-size: .8em;
+    background-color: #DC143C;
+    color: #fffbff;
 }
 
 /* map */
@@ -412,7 +414,7 @@ button {
 
 @media screen and (min-width: 48em) {
     #form-outer>li>h3 {
-        font-size: 3rem;
+        font-size: 1.5em;
     }
 }
 
