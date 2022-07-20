@@ -168,7 +168,7 @@ img {
     color: #fffbff;
 }
 
-#form>li {
+#form >li {
     color: #fffbff
 }
 
@@ -181,14 +181,14 @@ img {
     background-color: #DC143C;
 }
 
-#form-outer>li>label,
+#form-outer >li >label,
 #form-outer li p {
     max-width: 320px;
     margin: 4%;
     background-color: #DC143C;
 }
 
-#form-outer>li>h3 {
+#form-outer >li >h3 {
     margin-block-start: 1em;
     margin-block-end: 1em;
     color: #fffbff;
