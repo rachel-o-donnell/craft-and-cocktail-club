@@ -95,6 +95,14 @@ img {
     height: auto;
 }
 
+#focus {
+    padding-right: 2%;
+}
+
+#cocktail {
+    padding-left: 2%;
+}
+
 /* welcome text */
 
 #welcome,

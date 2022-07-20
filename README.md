@@ -13,6 +13,8 @@ images sticking to the left after resizing- added display flex
 added containers around map to fit in flex display
 img - width 100% instead of max-width
 video container - #video-container/ #video.container
+form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form!
+images joined together on hoe page:
 * ### Nav bar:
 
 
