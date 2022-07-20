@@ -427,6 +427,13 @@ button {
 }
 
 @media screen and (min-width: 48em) {
+    #form-container {
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 48em) {
     #form-outer>li>input {
         font-size: 1.5rem;
     }
