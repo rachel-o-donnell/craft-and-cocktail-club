@@ -443,6 +443,12 @@ button {
 }
 
 @media screen and (min-width: 48em) {
+    #find-us-container >#map-container,
+    #find-us-container >#address-container {
+       width: 50%
+    }
+}
+@media screen and (min-width: 48em) {
     #address {
         font-size: 1.5rem;
     }
