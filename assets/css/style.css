@@ -43,11 +43,9 @@ h2 {
 /* navigation links */
 
 #nav {
-    font-size: .6rem;
+    font-size: 1rem;
     letter-spacing: 4px;
-    display: flex;
     align-items: center;
-    margin: 10px;
     list-style: none;
 }
 
@@ -69,6 +67,10 @@ h2 {
     text-decoration: none;
     color: inherit;
     margin: 10px;
+}
+
+#nav li {
+    padding-bottom: 10%;
 }
 
 #nav a:hover {
@@ -163,6 +165,7 @@ img {
 
 #join-image {
     max-width: 100%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -176,7 +179,7 @@ img {
     color: #fffbff;
 }
 
-#form >li {
+#form>li {
     color: #fffbff
 }
 
@@ -189,7 +192,7 @@ img {
     background-color: #DC143C;
 }
 
-#form-outer >li >label,
+#form-outer>li>label,
 #form-outer li p {
     width: 20%;
     margin: 4%;
@@ -262,6 +265,19 @@ button {
         font-size: 2.1rem;
     }
 }
+
+@media screen and (min-width: 30em) {
+    #nav {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 30em) {
+    #nav >li {
+        padding-bottom: 0;
+    }
+}
+
 
 /* welcome and address text*/
 @media screen and (min-width: 30em) {
@@ -418,6 +434,7 @@ button {
         align-items: center;
     }
 }
+
 /* form */
 
 @media screen and (min-width: 48em) {
@@ -459,12 +476,14 @@ button {
 }
 
 @media screen and (min-width: 48em) {
-    #find-us-container >#map-container,
-    #find-us-container >#address-container {
-       width: 50%;
-       padding: 2%;
+
+    #find-us-container>#map-container,
+    #find-us-container>#address-container {
+        width: 50%;
+        padding: 2%;
     }
 }
+
 @media screen and (min-width: 48em) {
     #address {
         font-size: 1.5rem;
@@ -539,6 +558,7 @@ button {
 
 /* join-image*/
 @media screen and (min-width: 75em) {
+
     #hero-image,
     #join-image {
         max-width: 30%;
