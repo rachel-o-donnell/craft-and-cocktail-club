@@ -3,22 +3,17 @@
 Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members . It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. I will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups and how-to videos, and see the bespoke cocktail of the week suggested by the venue- Galway City Distillery.
 
 ___
+## UX/UI:
+
 
 ## FEATURES:
 
-bugs fixed:
-
-nav bar not flush with side in bigger screen- removed margin in media query
-images sticking to the left after resizing- added display flex
-added containers around map to fit in flex display
-img - width 100% instead of max-width
-video container - #video-container/ #video.container
-form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form!
-images joined together on hoe page:
 * ### Nav bar:
 
-
-
+The Nav bar consists of 3 options, Home, Gallery, and Join Us! allowing the user to easily navigate their journey without using the back button. 
+Each with an icon that can be easily read visually.
+The active page is underlined confirming to the user what page they are currently on.
+The layout of the nav bar is consistent across different screen sizes save for a mobile device
 * ### Font:
 Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
 
@@ -39,8 +34,11 @@ GALLERY IMAGES - All images from Pexels.
 
 
 ___
+## TECHNOLOGIES USED:
 
-## UX/UI:
+Html
+Css
+
 
 ___
 
@@ -49,19 +47,14 @@ screen shots or links to validators
 manual testing with multiple browsers and devices. screenshots.
 
 ___
-
-## TECHNOLOGIES USED:
-
-Html
-Css
-
-___
-
 ## DEPLOYMENT:
 (bullet point walk through of HOW)
 cloning and forking
 local deployment
 remote deployment (live on github pages)
+___
+
+
 
 ___
 
@@ -163,6 +156,15 @@ withwendy: tapestry weaving essentials (everything you need)
 
 Balsmaiq
 
+##BUGS FIXED:
+
+nav bar not flush with side in bigger screen- removed margin in media query
+images sticking to the left after resizing- added display flex
+added containers around map to fit in flex display
+img - width 100% instead of max-width
+video container - #video-container/ #video.container
+form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form!
+images joined together on hoe page:
 ## RESOURCES USED:
 
 Stack Overflow
