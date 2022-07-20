@@ -119,7 +119,6 @@ img {
     margin-bottom: 6%;
 }
 
-
 /* monthly focuses */
 
 .monthly {
@@ -273,11 +272,10 @@ button {
 }
 
 @media screen and (min-width: 30em) {
-    #nav >li {
+    #nav>li {
         padding-bottom: 0;
     }
 }
-
 
 /* welcome and address text*/
 @media screen and (min-width: 30em) {
@@ -287,7 +285,6 @@ button {
         font-size: 1rem;
     }
 }
-
 
 /* for screens that are 769px or above*/
 
@@ -371,7 +368,6 @@ button {
     }
 }
 
-
 @media screen and (min-width: 48em) {
     #craft {
         grid-area: craft;
@@ -384,13 +380,11 @@ button {
     }
 }
 
-
 @media screen and (min-width: 48em) {
     #craft-focus {
         grid-area: craft-h3;
     }
 }
-
 
 @media screen and (min-width: 48em) {
     #craft-type {
@@ -398,13 +392,11 @@ button {
     }
 }
 
-
 @media screen and (min-width: 48em) {
     #cocktail-focus {
         grid-area: cocktail-h3;
     }
 }
-
 
 @media screen and (min-width: 48em) {
     #cocktail-type {
@@ -457,7 +449,6 @@ button {
     }
 }
 
-
 @media screen and (min-width: 48em) {
     #form-outer>li>input {
         font-size: 1rem;
@@ -506,9 +497,9 @@ button {
     #logo {
         font-size: 2.1rem;
     }
-
-    /* monthly focus's */
 }
+
+/* monthly focus's */
 
 @media screen and (min-width: 64em) {
     .monthly {
