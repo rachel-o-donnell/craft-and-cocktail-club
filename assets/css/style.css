@@ -391,7 +391,7 @@ button {
 /* footer */
 @media screen and (min-width: 48em) {
     #footer {
-        font-size: 2em;
+        font-size: 2rem;
     }
 }
 
@@ -414,7 +414,7 @@ button {
 
 @media screen and (min-width: 48em) {
     #form-outer>li>h3 {
-        font-size: 1.5em;
+        font-size: 1.5rem;
     }
 }
 
@@ -422,7 +422,7 @@ button {
 
     .text,
     button {
-        font-size: 2rem;
+        font-size: 1rem;
     }
 }
 
@@ -435,7 +435,7 @@ button {
 
 @media screen and (min-width: 48em) {
     #form-outer>li>input {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 }
 
