@@ -6,6 +6,20 @@ ___
 ## UX/UI:
 
 
+* ### Colour choice:
+inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
+I chose only one color as the font weights made an impact on the vibrancy of the color and I didnt like that darker read were too brown or purple. 
+
+Target Audience - Crafters who like to be social,
+
+I wanted a simple design easy to read and navigate but whos images would communicate the most of the club- The images, layout , design amd text all need to convey that it is a fun, enjoyablke atmosphere, with an inclusivivity at the forefront. Peope can see the months craft focus, watch a tutorial and book to join for whatever date that suits. The naavigation and site is simple to allow for creative people who may not be tech savy. 
+
+A gallery is there to show off peoples achievemetns and to communicate the fun the group has, the community atmosphere and the inspiration to attract new members.
+
+
+* ### Font:
+Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
+
 ## FEATURES:
 
 * ### Nav bar:
@@ -16,10 +30,6 @@ The active page is underlined confirming to the user what page they are currentl
 The layout of the nav bar is consistent across different screen sizes save for a mobile device
 * ### Font:
 Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
-
-* ### Colour choice:
-inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
-I chose only one color as the font weights made an impact on the vibrancy of the color and I didnt like that darker read were too brown or purple. 
 
 * ### Footer:
 
