@@ -272,8 +272,7 @@ ___
 * Youtube video
     * Credit withwendy: tapestry weaving essentials (everything you need)
 
-* Gallery:
-
+* Gallery:   
   All images from Pexels - an open Source site but here are credits. 
     * Photo by Tim Gouw: craft-neon
     * Photo by Karolina Grabowska: drawing-supplies
@@ -292,14 +291,17 @@ ___
     * Photo by Nadin Sh: passion-fruit-cocktail
     * Photo by Dziana Hasanbekava: new monthly cocktail
 
-**Fonts:**
-Google fonts
+* Fonts:
 
-**Icons:** 
-Font Awesome
+    Google fonts
 
-**Wireframes:** 
-Balsamiq
+* Icons:
+
+    Font Awesome
+
+* Wireframes:
+
+    Balsamiq
 ___
 
 
