@@ -1,52 +1,76 @@
-# WELCOME TO CRAFT AND COCKTAIL CLUB.
+![](assets/readme-images/homepage.png)
 
-(https://rachel-o-donnell.github.io/craft-and-cocktail-club/)
-![](https://rachelodonn-craftandcoc-9mhc6iprn2d.ws-eu54.gitpod.io/workspace/craft-and-cocktail-club/assets/README-images/homepage.png)
+# WELCOME TO CRAFT AND COCKTAIL CLUB.
 
 Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members. It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. It will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups, see what the monthly craft focus is and view a how-to video, and see the bespoke cocktail of the month suggested by the venue- Galway City Distillery.
 
-___
+__
 ## UX/UI:
 
- Site Goals:
-The goal of the site is to act as a community hub of information for its members where they can clearly see what craft the members are focusing on, what bespoke cocktail has been designed for them. A place for members to book their spot, and also a source of inspiration and pride - through sharing past work of the mebers, a source of knowledge - with a monthly how to video on the chosen topic and a site that captures the spirit of the group. A fun free and welcoming atmosphere to attract new members.
+Target Audience - Crafters who like to be social.
+I wanted a simple design easy to read and navigate but whos images would communicate the most of the club- The images, layout , design amd text all need to convey that it is a fun, enjoyablke atmosphere, with an inclusivivity at the forefront. Peope can see the months craft focus, watch a tutorial and book to join for whatever date that suits. The navigation and site is simple to allow for creative people of all ages who may not be tech savy.
 
-● Design choices
+###Site Goals:
+
+The goal of the site is to act as a community hub of information for its members where they can 
+* clearly see what craft the members are focusing on
+* what bespoke cocktail has been designed for them
+* book their spot on a chosen date
+* acts as a source of inspiration and pride - through sharing past work of the mebers,
+* a source of knowledge - with a monthly how to video on the chosen topic and a site that captures the spirit of the group. 
+* A fun free and welcoming atmosphere to attract new members.
+
 
 * ### Colour choice:
 inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
 I chose only one color as the font weights made an impact on the vibrancy of the color and I didnt like that darker read were too brown or purple. 
 
-Target Audience - Crafters who like to be social,
-
-I wanted a simple design easy to read and navigate but whos images would communicate the most of the club- The images, layout , design amd text all need to convey that it is a fun, enjoyablke atmosphere, with an inclusivivity at the forefront. Peope can see the months craft focus, watch a tutorial and book to join for whatever date that suits. The naavigation and site is simple to allow for creative people who may not be tech savy. 
-
 A gallery is there to show off peoples achievemetns and to communicate the fun the group has, the community atmosphere and the inspiration to attract new members.
 
+HERO IMAGE: 
+As a site targeting creatives I knew spending the time finding the right images would be incredibly important. imagery sets the tone of the page , the type of craft that is celebrated with the community and the spirit of the club itself. 
+
+The hero image took me a long time to find but is truly the perfect visual. I do not own the rights to this visual and it is used for educational use only.
+
+Images can be found here...
+THIS MONTHS COCKTAIL:
+#### Monthly cocktail from kindersticker on etsy. (https://www.pinterest.co.uk/pin/836473330802828625/?mt=login)
+#### Red embroidered cocktail. https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive?epik=dj0yJnU9N1ZxQWlyTE9DRFhvUnluSHpUdTRYcFI3ZXBKSGcwVUsmcD0wJm49Y0JmRms2dVFvZk8wbUdfODExYWowZyZ0PUFBQUFBR0tfQi1J
 
 * ### Font:
 Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious. Letter sizing is ar least 12px and spaced to allow for easier reading. 
 
-● User stories
 
-As as user I want to know what the months focus is so I can ...
 ● Wireframes
+
+Please find all wireframes created for this project here 
+
+![Wireframes](assets/wireframes/)
+
 ● Anything else you want to add that relates to UX/UI
 
 ## FEATURES:
 
-* ### Nav bar:
+* ### Nav bar: 
 
-The Nav bar consists of 3 options, Home, Gallery, and Join Us! allowing the user to easily navigate their journey without using the back button. 
-Each with an icon that can be easily read visually.
-The active page is underlined confirming to the user what page they are currently on.
-The layout of the nav bar is consistent across different screen sizes save for a mobile device
+* The Nav bar consists of 3 options, Home, Gallery, and Join Us! allowing the user to easily navigate their journey without using the back button. 
+* Each nav button has an accompanying icon that can be easily read visually.
+* The active page is underlined confirming to the user what page they are currently on.
+* It is fully responsive with layout of the nav bar is consistent across different screen sizes save for a mobile device.
+
 * ### Font:
-Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
+I chose 2 fonts from Google Fonts - Abril Fatface and Poiret One with sans serif chosen as a back up. 
+They are Elegent, yet not too serious and easily readable especially with the styled letter spacing.
 
 * ### Footer:
 
+Clickable socail media links allow our members to easily follow us on whatever socials they prefer. 
+
 * ### Gallery:
+
+A gallery of images show potential members the kind of fun the group get up to. A mix of craft projects, cocktails, and club members showing a diverse group of people, conveying that this club is inclusive, fun and creative. 
+
+The Gallery also hosts a how to video on the monthly topic that can allow members to watch and rewatch in their own time. 
 
 GALLERY IMAGES - All images from Pexels.
 CRAFT-NEON: Photo by Tim Gouw from Pexels
@@ -72,19 +96,53 @@ Photo by Dziana Hasanbekava: https://www.pexels.com/photo/glass-of-sparkling-cha
 
 * ### Sign up:
 
-
 ___
 ## TECHNOLOGIES USED:
 
 Html
 Css
-
-
 ___
 
 ## TESTING:
 screen shots or links to validators
 manual testing with multiple browsers and devices. screenshots.
+
+All clickable links work and the form confirms validation. 
+
+### Logo
+    EXPECT: The home page will open when the logo is clicked.
+    ACTION: Clicked the logo.
+    RESULT: Home page opens when clicked.
+
+### Home button - nav bar
+    EXPECT: The home page will open when the button is clicked.
+    ACTION: Clicked the home button.
+    RESULT: Home page opens when clicked.
+
+### Gallery button - nav bar
+    EXPECT: The gallery page will open when the button is clicked.
+    ACTION: Clicked the gallery button.
+    RESULT: Gallery page opens when clicked.
+
+### Join Us! button - nav bar
+    EXPECT: The Join Us! page will open when the button is clicked.
+    ACTION: Clicked the Join Us! button.
+    RESULT: Join Us! page opens when clicked.
+
+### Form
+    EXPECT: The Form will not allow blank fields when the submit button is clicked.
+    ACTION: Clicked the submit button with blank field.
+    RESULT: Form would not let me submit when clicked. When all fields are filled and submit is pressed, the code is validated.
+
+Site was tested on iphone 11 iphone 5 MacBook Air, Ipad, 32" monitor 
+
+Firefox, Brave, Chrome, Safari
+
+Validator Testing:
+* HTML:
+    No errors are returned when passing through the official W3C validator.
+* CSS:
+    No errors are returned when passing throught the official Jigsaw validator.
 
 ___
 ## DEPLOYMENT:
@@ -92,9 +150,19 @@ ___
 cloning and forking
 local deployment
 remote deployment (live on github pages)
+
+This site was deployed to Github pages. the steps to deploy are :
+1 In the github repository, click the settings tab
+2 From the source section drop down menu select the main branch
+3 Once the main branch has been selected the page will automatically refresh with a detailed ribbon display indicating the successful deployment.
+
+(https://rachel-o-donnell.github.io/craft-and-cocktail-club/)
+
 ___
+ ## FUTURE FEATURES :
 
-
+* A back to top button on the bottom of the pages (esp the gallery for phone)
+* A booking button on each page for ease of use.
 
 ___
 
@@ -166,12 +234,7 @@ https://freshman.tech/flexbox-navbar/ - adjusting the navbar in flexbox- could n
     ___
 ## IMAGES: 
 
-Images can be found here...
-THIS MONTHS COCKTAIL:
-https://www.pinterest.co.uk/pin/836473330802828625/?mt=login Monthly cocktail
-https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive?epik=dj0yJnU9N1ZxQWlyTE9DRFhvUnluSHpUdTRYcFI3ZXBKSGcwVUsmcD0wJm49Y0JmRms2dVFvZk8wbUdfODExYWowZyZ0PUFBQUFBR0tfQi1J red embroidered cocktail
 
-Image used for educational purposes only I do not have the rights to this image.
 
 https://www.youtube.com/watch?v=m85aQc2n7JA
 withwendy: tapestry weaving essentials (everything you need)
