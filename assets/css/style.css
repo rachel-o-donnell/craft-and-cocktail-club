@@ -509,9 +509,11 @@ button {
 
 /* video */
 
+@media screen and (min-width: 64em) {
 #video-container {
     width: 75%;
     margin: 20px auto 30px;
+}
 }
 
 /* gallery */

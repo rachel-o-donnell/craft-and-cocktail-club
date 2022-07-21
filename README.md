@@ -23,10 +23,10 @@ The goal of the site is to act as a community hub of information for its members
 
 **Colour choice:**
 
-* #DC143C (Red)
+* #DC143C (Crimson)
 * #fffbff (Pale pink)
 
-   * Inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more clean and calm. 
+   * Inspired by the color choice of https://annajona.is/ landing page, I wanted the overall feel to be more clean and calm. 
    I chose only one color as the font weights made an impact on the vibrancy of the color and I didn't like that darker reds appeared too brown or purple. I chose a very pale pink background to help with readability.
 
 **Font:**
@@ -39,8 +39,7 @@ The goal of the site is to act as a community hub of information for its members
 ![HERO IMAGE](assets/images/hero-cocktail.jpg)
 
 **Hero image:** 
-* The hero image took me a long time to find but is truly the perfect visual being a hand embroidered cocktail. I do not own the rights to this visual and it is used for educational use only. 
-    * Red embroidered cocktail https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive Credit: kindersticker on etsy.
+* The hero image took me a long time to find but is truly the perfect visual being a hand embroidered cocktail. I do not own the rights to this visual and it is used for educational use only. Credit is in the Credits section.
 
 **Wireframes:**
 
@@ -71,32 +70,14 @@ ____
 **Instructional video:**
 
 * The Gallery also hosts a how to video on the monthly topic that can allow members to watch and rewatch in their own time. 
-    * I do not own the rights to this video- it is being used for educational purposes only. Credit withwendy: tapestry weaving essentials (everything you need)
-[Click here to see video.](https://www.youtube.com/watch?v=m85aQc2n7JA)
+    * I do not own the rights to this video- it is being used for educational purposes only. Credit in the Credit section. 
+    * [Click here to see video.](https://www.youtube.com/watch?v=m85aQc2n7JA)
 
 **GALLERY IMAGES**
 
 ![gallery](assets/readme-images/gallery-screenshot.png)
 
 A fully responsive gallery is there to show off peoples achievements and to communicate the fun the group has, the community atmosphere and act as inspiration to attract new members. A mix of craft projects, cocktails, and club members showing a diverse group of people, conveying that this club is inclusive, fun and creative. 
-
-* All images from Pexels.
-    * Photo by Tim Gouw: craft-neon
-    * Photo by Karolina Grabowska: drawing-supplies
-    * Photo by Michael Burrows: laughing-girl-drawing
-    * Photo by cottonbro: flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
-    * Photo by Pavel Danilyuk: girls-in-class
-    * Photo by Pexels User: crochet-bag
-    * Photo by Miriam Alons: woman-with-knitting
-    * Photo by Godisable Jacob: embroidered-bag
-    * Photo by Magdaline Nicole: embroidered-heart
-    * Photo by RODNAE Productions: party-scene
-    * Photo by Mix and Match Studio: orange-rosemary-cocktail
-    * Photo by Marcelo Verfe: blueberry-cocktail
-    * Photo by Ron Lach: neon-woman
-    * Photo by Luciann Photography: neon-cocktail-sign
-    * Photo by Nadin Sh: passion-fruit-cocktail
-    * Photo by Dziana Hasanbekava: new monthly cocktail
 
 ___
 
@@ -170,12 +151,25 @@ local deployment
 remote deployment (live on github pages)
 
 This site was deployed to Github pages. the steps to deploy are :
-1 In the github repository, click the settings tab
-2 From the source section drop down menu select the main branch
-3 Once the main branch has been selected the page will automatically refresh with a detailed ribbon display indicating the successful deployment.
+1. In the github repository, click the settings tab
+2. From the source section drop down menu select the main branch
+3. Once the main branch has been selected the page will automatically refresh with a detailed ribbon display indicating the successful deployment.
 
 (https://rachel-o-donnell.github.io/craft-and-cocktail-club/)
 
+To Clone this repository follow these steps:
+
+1. On GitHub.com, click into the main page of the repository.
+2. Above the list of files, click the drop down Code button
+3. Copy the URL for the repository.
+    *To clone the repository using HTTPS, under "HTTPS", click .
+    *To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click .
+    *To clone a repository using GitHub CLI, click GitHub CLI, then click .
+4. Open Terminal.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type git clone, and then paste the URL you copied earlier.
+    * $ git clone https://github.com/rachel-o-donnell/craft-and-cocktail-club.git
+7. Press Enter to create your local clone.
 ___
  ## FUTURE FEATURES :
 
@@ -186,81 +180,99 @@ ___
 
 ## CREDITS:
 
-Love running- meta data: description and keywords. changed to suit my project.
-            core structure for home page - changed 
-            basic nav bar and header structure
+**Code** I used a variety of sources starting with the Love Running project but adapted to suit my project, styling and design choices. I relied heavily on dev tools to adapt code and problem solve.
 
- logo structure and styling. Changed font family, weights, colors size and letter spacing
-
- styling navigation links/ menu bar - started with Love running - then researched how to prevent reverse order
-            
-           fixing reverse order in menu bar float: google answer from stack overflow  https://stackoverflow.com/questions/23737414/why-menu-created-with-ul-li-elements-displayed-in-reverse-order answer by rajesh kakawat
-    Changed the menu ul to float left, menu li to float right in order to be on one line in correct order. 
-    menu LR 
-    menu hover - LR - W3 to see options for alternative to solid - changed my design to 2px, double and same color as rest of text. 
-
-Saving and optimizing images for SEO: 
-https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
-
-    MOBILE FIRST DESIGN: 
-
-    changed logo and nav bar to have mobile first design usin flexbox flex froggy and below video. 
+* Love running example
+    * Meta data: description and keywords. 
+    * Core structure for home page
+    * Basic nav bar and header structure
+    * Logo structure and styling. Changed font family, weights, colors size and letter spacing
+    * form
+   
+* Mobile first design: 
+    * Changed logo and nav bar to have mobile first design usin flexbox flex froggy and below video. 
     https://www.google.com/search?q=creating+a+nav+bar+for+mobile+first&oq=creating+a+nav+bar+for+mobile+first+&aqs=chrome..69i57j33i10i160l5.20679j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_Mn3BYpvUKc-DgQabn5CoCQ29
-    ...changed to suit my project styling.
+    * Active nav style
+    When I adapted to flexbox I used margin style tips from https://www.youtube.com/watch?v=RSIclWvNTdQ to remove the space I had created beneath my Nav item and its active page underline.
 
-    changed logo and nav bar to have mobile first design usin flexbox flex froggy
-
-    active nav style -- LR but changed all to match my menu hover styling
-    when I adapted to flexbox I used margin style tips from https://www.youtube.com/watch?v=RSIclWvNTdQ to remove the space I had created beneath my Nav item and its active page underline.
-
-    hero image:
-
-    styling image for responiveness (flexbox) used  w3 to help with syntax of inserting into html and a combo of below links to style 
+* Responsiveness
+    * styling image for responiveness (flexbox) used W3 to help with syntax of inserting into html and a combo of below links to style 
     https://www.google.com/search?q=creating+a+nav+bar+for+mobile+first&oq=creating+a+nav+bar+for+mobile+first+&aqs=chrome..69i57j33i10i160l5.20679j1j7&sourceid=chrome&ie=UTF-8#kpvalbx=_Mn3BYpvUKc-DgQabn5CoCQ29
 
-    https://www.google.com/search?q=how+to+make+mobile+first+website&oq=how+to+write+mobile+first+&aqs=chrome.2.0i512j69i57j0i22i30j0i10i22i30j0i22i30l3j0i15i22i30j0i390l2.16112j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:71362564,vid:XsEnj-1hG2o,st:0
+     * https://www.google.com/search?q=how+to+make+mobile+first+website&oq=how+to+write+mobile+first+&aqs=chrome.2.0i512j69i57j0i22i30j0i10i22i30j0i22i30l3j0i15i22i30j0i390l2.16112j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:71362564,vid:XsEnj-1hG2o,st:0
 
-    grid for monthly focus:
-    https://www.youtube.com/watch?v=RSIclWvNTdQ
+* Grid for monthly focus
+   * https://www.youtube.com/watch?v=RSIclWvNTdQ
 
-    Footer - style using the nav bar info along with flexbox froggy to style.
+* Footer - style using the nav bar info along with flexbox froggy to style.
+    * https://flexboxfroggy.com/
 
-    
-https://www.youtube.com/watch?v=ly36kn0ug4k - couldnt remeber how to paste a you tube video.
-https://www.youtube.com/watch?v=9YffrCViTVk making the video responsive.
-added a margin to separate the video from the gallery images and nav bar
+* Inserting you tube video:    
+    * https://www.youtube.com/watch?v=ly36kn0ug4k - couldnt remeber how to paste a you tube video.
+    * https://www.youtube.com/watch?v=9YffrCViTVk making the video responsive.
+    * added a margin to separate the video from the gallery images and nav bar
+
+* Creating and styling a flexbox form
+    * https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
+
+* Markdown 
+    * format learnings from below
+        * https://www.youtube.com/watch?v=HUBNt18RFbo
+        * https://www.markdownguide.org/cheat-sheet/ 
+
+* Responsive Google maps
+    * https://blog.duda.co/responsive-google-maps-for-your-website - changed to suit my project
+
+* Media query
+    * Ideas from here- using rem/em 
+        * https://www.youtube.com/watch?v=IsC5-C_nuF4
+        * https://www.w3schools.com/tags/ref_pxtoemconversion.asp - px converter - converting standard screen px sizes to ems.
+        * https://freshman.tech/flexbox-navbar/ - adjusting the navbar in flexbox to get it against left and right sides.
+
+**Media**
+
+**Saving and optimizing images for SEO** 
+    https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
+
+* Hero image
+    * Red embroidered cocktail https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive Credit: kindersticker on etsy.
+
+* Youtube video
+    * Credit withwendy: tapestry weaving essentials (everything you need)
+
+**Gallery**
+    * All images from Pexels.
+    * Photo by Tim Gouw: craft-neon
+    * Photo by Karolina Grabowska: drawing-supplies
+    * Photo by Michael Burrows: laughing-girl-drawing
+    * Photo by cottonbro: flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
+    * Photo by Pavel Danilyuk: girls-in-class
+    * Photo by Pexels User: crochet-bag
+    * Photo by Miriam Alons: woman-with-knitting
+    * Photo by Godisable Jacob: embroidered-bag
+    * Photo by Magdaline Nicole: embroidered-heart
+    * Photo by RODNAE Productions: party-scene
+    * Photo by Mix and Match Studio: orange-rosemary-cocktail
+    * Photo by Marcelo Verfe: blueberry-cocktail
+    * Photo by Ron Lach: neon-woman
+    * Photo by Luciann Photography: neon-cocktail-sign
+    * Photo by Nadin Sh: passion-fruit-cocktail
+    * Photo by Dziana Hasanbekava: new monthly cocktail
 
 
+___
 
-##Join us
-form from LR. adapted to suit what I want.
+## BUGS FIXED:
 
-Creating and styling a flexbox form - restyled and changes to suit my design
+* Nav bar not flush with side in bigger screen- removed margin in media query
+* Images sticking to the left after resizing- added display flex
+* Added containers around map to fit in flex display
+* img - width 100% instead of max-width
+* Video container - #video-container/ #video.container , also had missed the @media query tag to change the size.
+* Form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form
+* Images joined together on home page - added margin
 
-https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767
-
-MARKDOWN format learnings from below
-https://www.youtube.com/watch?v=HUBNt18RFbo
-
-RESPONSIVE GOOGLE MAPS: (WITHOUT API KEY SECTION)
-https://blog.duda.co/responsive-google-maps-for-your-website - changed to suit my project
-
-media query ideas from here- using rem/em
-https://www.youtube.com/watch?v=IsC5-C_nuF4
-https://www.w3schools.com/tags/ref_pxtoemconversion.asp - px converter 
-https://freshman.tech/flexbox-navbar/ - adjusting the navbar in flexbox- could not remember how to get it against left and right.
-    ___
-
-##BUGS FIXED:
-
-nav bar not flush with side in bigger screen- removed margin in media query
-images sticking to the left after resizing- added display flex
-added containers around map to fit in flex display
-img - width 100% instead of max-width
-video container - #video-container/ #video.container
-form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form!
-images joined together on hoe page:
-
+___
 ## RESOURCES USED:
 Stack Overflow
 Google
@@ -269,6 +281,6 @@ Balsamiq
 Youtube
 Devtools
 Flex froggy
-google maps
+Google maps
 Ezgif.com - to compress images/convert to webp
 ___
