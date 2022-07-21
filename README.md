@@ -1,10 +1,17 @@
-# CRAFT AND COCKTAIL CLUB.
+# WELCOME TO CRAFT AND COCKTAIL CLUB.
 
-Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members . It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. I will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups and how-to videos, and see the bespoke cocktail of the week suggested by the venue- Galway City Distillery.
+[] https://rachel-o-donnell.github.io/craft-and-cocktail-club/
+
+
+Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members. It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. It will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups, see what the monthly craft focus is and view a how-to video, and see the bespoke cocktail of the month suggested by the venue- Galway City Distillery.
 
 ___
 ## UX/UI:
 
+ Site Goals:
+The goal of the site is to act as a community hub of information for its members where they can clearly see what craft the members are focusing on, what bespoke cocktail has been designed for them. A place for members to book their spot, and also a source of inspiration and pride - through sharing past work of the mebers, a source of knowledge - with a monthly how to video on the chosen topic and a site that captures the spirit of the group. A fun free and welcoming atmosphere to attract new members.
+
+● Design choices
 
 * ### Colour choice:
 inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
@@ -18,7 +25,13 @@ A gallery is there to show off peoples achievemetns and to communicate the fun t
 
 
 * ### Font:
-Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious.
+Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious. Letter sizing is ar least 12px and spaced to allow for easier reading. 
+
+● User stories
+
+As as user I want to know what the months focus is so I can ...
+● Wireframes
+● Anything else you want to add that relates to UX/UI
 
 ## FEATURES:
 
