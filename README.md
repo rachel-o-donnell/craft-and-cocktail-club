@@ -1,7 +1,7 @@
 # WELCOME TO CRAFT AND COCKTAIL CLUB.
 
-[] https://rachel-o-donnell.github.io/craft-and-cocktail-club/
-
+(https://rachel-o-donnell.github.io/craft-and-cocktail-club/)
+![](https://rachelodonn-craftandcoc-9mhc6iprn2d.ws-eu54.gitpod.io/workspace/craft-and-cocktail-club/assets/README-images/homepage.png)
 
 Craft and Cocktail Club is a webite site for a social arts and crafts club in Galway. It is a hub for information and pictures for its community as well as a platform to attract new members. It is targeted towards arts, crafts, and cocktail entusiasts who enjoy the social aspect of a club and the informal setting of a bar. It will be used for craft and cocktail lovers to book their place on upcoming meetups as well as view the gallery of past meet ups, see what the monthly craft focus is and view a how-to video, and see the bespoke cocktail of the month suggested by the venue- Galway City Distillery.
 
@@ -49,6 +49,23 @@ Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, r
 * ### Gallery:
 
 GALLERY IMAGES - All images from Pexels.
+CRAFT-NEON: Photo by Tim Gouw from Pexels
+drawing-supplies: Photo by Karolina Grabowska from Pexels
+laughing-girl-drawing: Photo by Michael Burrows from Pexels
+Photo by cottonbro from Pexels flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
+Photo by Pavel Danilyuk from Pexels girls-in-class
+Photo by Pexels User from Pexels crochet-bag
+Photo by Miriam Alonso from Pexels woman-with-knitting
+Photo by RODNAE Productions from Pexels woman-with-knitting
+Photo by Godisable Jacob from Pexels embroidered-bag
+Photo by Magdaline Nicole from Pexels embroidered-heart
+Photo by RODNAE Productions from Pexels party-scene
+Photo by Mix and Match Studio from Pexels orange-rosemary-cocktail
+Photo by Marcelo Verfe from Pexels blueberry-cocktail
+Photo by Ron Lach from Pexels neon-woman
+Photo by Luciann Photography from Pexels neon-cocktail-sign
+Photo by Nadin Sh from Pexels passion-fruit-cocktail
+Photo by Dziana Hasanbekava: https://www.pexels.com/photo/glass-of-sparkling-champagne-on-ice-and-dried-plants-7809787/ new monthly cocktailgit
 
 
 * ### Map:
@@ -127,23 +144,6 @@ https://www.youtube.com/watch?v=ly36kn0ug4k - couldnt remeber how to paste a you
 https://www.youtube.com/watch?v=9YffrCViTVk making the video responsive.
 added a margin to separate the video from the gallery images and nav bar
 
-CRAFT-NEON: Photo by Tim Gouw from Pexels
-drawing-supplies: Photo by Karolina Grabowska from Pexels
-laughing-girl-drawing: Photo by Michael Burrows from Pexels
-Photo by cottonbro from Pexels flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
-Photo by Pavel Danilyuk from Pexels girls-in-class
-Photo by Pexels User from Pexels crochet-bag
-Photo by Miriam Alonso from Pexels woman-with-knitting
-Photo by RODNAE Productions from Pexels woman-with-knitting
-Photo by Godisable Jacob from Pexels embroidered-bag
-Photo by Magdaline Nicole from Pexels embroidered-heart
-Photo by RODNAE Productions from Pexels party-scene
-Photo by Mix and Match Studio from Pexels orange-rosemary-cocktail
-Photo by Marcelo Verfe from Pexels blueberry-cocktail
-Photo by Ron Lach from Pexels neon-woman
-Photo by Luciann Photography from Pexels neon-cocktail-sign
-Photo by Nadin Sh from Pexels passion-fruit-cocktail
-Photo by Dziana Hasanbekava: https://www.pexels.com/photo/glass-of-sparkling-champagne-on-ice-and-dried-plants-7809787/ new monthly cocktailgit
 
 
 ##Join us
