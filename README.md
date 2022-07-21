@@ -10,7 +10,7 @@ __
 Target Audience - Crafters who like to be social.
 I wanted a simple design easy to read and navigate but whos images would communicate the most of the club- The images, layout , design amd text all need to convey that it is a fun, enjoyablke atmosphere, with an inclusivivity at the forefront. Peope can see the months craft focus, watch a tutorial and book to join for whatever date that suits. The navigation and site is simple to allow for creative people of all ages who may not be tech savy.
 
-###Site Goals:
+**Site Goals:**
 
 The goal of the site is to act as a community hub of information for its members where they can 
 * clearly see what craft the members are focusing on
@@ -21,86 +21,99 @@ The goal of the site is to act as a community hub of information for its members
 * A fun free and welcoming atmosphere to attract new members.
 
 
-* ### Colour choice:
-inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more calm.
-I chose only one color as the font weights made an impact on the vibrancy of the color and I didnt like that darker read were too brown or purple. 
+**Colour choice:**
 
-A gallery is there to show off peoples achievemetns and to communicate the fun the group has, the community atmosphere and the inspiration to attract new members.
+* #DC143C (Red)
+* #fffbff (Pale pink)
 
-HERO IMAGE: 
-As a site targeting creatives I knew spending the time finding the right images would be incredibly important. imagery sets the tone of the page , the type of craft that is celebrated with the community and the spirit of the club itself. 
+   * Inspired by the color choice of https://annajona.is/ landing page. yet I want the overall feel to be more clean and calm. 
+   I chose only one color as the font weights made an impact on the vibrancy of the color and I didn't like that darker reds appeared too brown or purple. I chose a very pale pink background to help with readability.
 
-The hero image took me a long time to find but is truly the perfect visual. I do not own the rights to this visual and it is used for educational use only.
+**Font:**
+* Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. They are Elegent, yet not too serious and easily readable especially with the styled letter spacing.
 
-Images can be found here...
-THIS MONTHS COCKTAIL:
-#### Monthly cocktail from kindersticker on etsy. (https://www.pinterest.co.uk/pin/836473330802828625/?mt=login)
-#### Red embroidered cocktail. https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive?epik=dj0yJnU9N1ZxQWlyTE9DRFhvUnluSHpUdTRYcFI3ZXBKSGcwVUsmcD0wJm49Y0JmRms2dVFvZk8wbUdfODExYWowZyZ0PUFBQUFBR0tfQi1J
+**Imagery:**
+ 
+* As a site targeting creatives I knew spending the time finding the right images would be incredibly important. The chosen imagery sets the tone of the page, the type of craft that is celebrated with the club and the spirit of the community itself. 
 
-* ### Font:
-Google Fonts - Abril Fatface and Poiret One, sans serif as a back up. Elegent, readable yet not too serious. Letter sizing is ar least 12px and spaced to allow for easier reading. 
+![HERO IMAGE](assets/images/hero-cocktail.jpg)
 
+**Hero image:** 
+* The hero image took me a long time to find but is truly the perfect visual being a hand embroidered cocktail. I do not own the rights to this visual and it is used for educational use only. 
+    * Red embroidered cocktail https://www.etsy.com/uk/listing/663300271/pink-martini-iron-on-patch-olive Credit: kindersticker on etsy.
 
-● Wireframes
+**Wireframes:**
 
-Please find all wireframes created for this project here 
+* Wireframes were made with Balsamiq and can be found [here](assets/wireframes)
+I chose not to go with the circular styling as I didnt like the top heavy visual balance on the screen.
+I also chose not to float the welcome text or form ontop of the images as I wanted to keep everything simple, clean and easy to read while not compromising the visual language communicated by the images.
 
-![Wireframes](assets/wireframes/)
-
-● Anything else you want to add that relates to UX/UI
-
+____
 ## FEATURES:
 
-* ### Nav bar: 
+**Nav bar:** 
+
+![navbar](assets/readme-images/navbar.png)
 
 * The Nav bar consists of 3 options, Home, Gallery, and Join Us! allowing the user to easily navigate their journey without using the back button. 
 * Each nav button has an accompanying icon that can be easily read visually.
 * The active page is underlined confirming to the user what page they are currently on.
 * It is fully responsive with layout of the nav bar is consistent across different screen sizes save for a mobile device.
 
-* ### Font:
-I chose 2 fonts from Google Fonts - Abril Fatface and Poiret One with sans serif chosen as a back up. 
-They are Elegent, yet not too serious and easily readable especially with the styled letter spacing.
+**Footer:**
+![footer](assets/readme-images/footer.png)
+* Clickable socail media links allow our members to easily follow us on whatever socials they prefer. 
 
-* ### Footer:
+**Gallery:**
 
-Clickable socail media links allow our members to easily follow us on whatever socials they prefer. 
+![gallery](assets/readme-images/gallery.png)
 
-* ### Gallery:
+**Instructional video:**
 
-A gallery of images show potential members the kind of fun the group get up to. A mix of craft projects, cocktails, and club members showing a diverse group of people, conveying that this club is inclusive, fun and creative. 
+* The Gallery also hosts a how to video on the monthly topic that can allow members to watch and rewatch in their own time. 
+    * I do not own the rights to this video- it is being used for educational purposes only. Credit withwendy: tapestry weaving essentials (everything you need)
+[Click here to see video.](https://www.youtube.com/watch?v=m85aQc2n7JA)
 
-The Gallery also hosts a how to video on the monthly topic that can allow members to watch and rewatch in their own time. 
+**GALLERY IMAGES**
 
-GALLERY IMAGES - All images from Pexels.
-CRAFT-NEON: Photo by Tim Gouw from Pexels
-drawing-supplies: Photo by Karolina Grabowska from Pexels
-laughing-girl-drawing: Photo by Michael Burrows from Pexels
-Photo by cottonbro from Pexels flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
-Photo by Pavel Danilyuk from Pexels girls-in-class
-Photo by Pexels User from Pexels crochet-bag
-Photo by Miriam Alonso from Pexels woman-with-knitting
-Photo by RODNAE Productions from Pexels woman-with-knitting
-Photo by Godisable Jacob from Pexels embroidered-bag
-Photo by Magdaline Nicole from Pexels embroidered-heart
-Photo by RODNAE Productions from Pexels party-scene
-Photo by Mix and Match Studio from Pexels orange-rosemary-cocktail
-Photo by Marcelo Verfe from Pexels blueberry-cocktail
-Photo by Ron Lach from Pexels neon-woman
-Photo by Luciann Photography from Pexels neon-cocktail-sign
-Photo by Nadin Sh from Pexels passion-fruit-cocktail
-Photo by Dziana Hasanbekava: https://www.pexels.com/photo/glass-of-sparkling-champagne-on-ice-and-dried-plants-7809787/ new monthly cocktailgit
+![gallery](assets/readme-images/gallery-screenshot.png)
 
+A fully responsive gallery is there to show off peoples achievements and to communicate the fun the group has, the community atmosphere and act as inspiration to attract new members. A mix of craft projects, cocktails, and club members showing a diverse group of people, conveying that this club is inclusive, fun and creative. 
 
-* ### Map:
+* All images from Pexels.
+    * Photo by Tim Gouw: craft-neon
+    * Photo by Karolina Grabowska: drawing-supplies
+    * Photo by Michael Burrows: laughing-girl-drawing
+    * Photo by cottonbro: flower-illustration, guy-with-wool, woman-with-martini, cheers-with-confetti
+    * Photo by Pavel Danilyuk: girls-in-class
+    * Photo by Pexels User: crochet-bag
+    * Photo by Miriam Alons: woman-with-knitting
+    * Photo by Godisable Jacob: embroidered-bag
+    * Photo by Magdaline Nicole: embroidered-heart
+    * Photo by RODNAE Productions: party-scene
+    * Photo by Mix and Match Studio: orange-rosemary-cocktail
+    * Photo by Marcelo Verfe: blueberry-cocktail
+    * Photo by Ron Lach: neon-woman
+    * Photo by Luciann Photography: neon-cocktail-sign
+    * Photo by Nadin Sh: passion-fruit-cocktail
+    * Photo by Dziana Hasanbekava: new monthly cocktail
 
-* ### Sign up:
+___
 
+![join-us](assets/readme-images/join.png)
+
+**Map:**
+
+A fully responsive google map was added to aid members with physical and visual location. 
+
+**Sign up:**
+
+A sign up form is included welcoming current and new members to book their spot for their chosen date.
 ___
 ## TECHNOLOGIES USED:
 
-Html
-Css
+* Html
+* Css
 ___
 
 ## TESTING:
@@ -134,7 +147,12 @@ All clickable links work and the form confirms validation.
     ACTION: Clicked the submit button with blank field.
     RESULT: Form would not let me submit when clicked. When all fields are filled and submit is pressed, the code is validated.
 
-Site was tested on iphone 11 iphone 5 MacBook Air, Ipad, 32" monitor 
+### Social media links:
+    EXPECT: The correct social media page to open in another tab when the button is clicked.
+    ACTION: Clicked each social media button.
+    RESULT: All three links open open the correct page in a new tab when clicked.
+
+Site was tested on iphone 11 iphone 5 MacBook Air, Ipad, 32" monitor, tested in responsive form in Chrome Dev tools. 
 
 Firefox, Brave, Chrome, Safari
 
@@ -232,15 +250,6 @@ https://www.youtube.com/watch?v=IsC5-C_nuF4
 https://www.w3schools.com/tags/ref_pxtoemconversion.asp - px converter 
 https://freshman.tech/flexbox-navbar/ - adjusting the navbar in flexbox- could not remember how to get it against left and right.
     ___
-## IMAGES: 
-
-
-
-https://www.youtube.com/watch?v=m85aQc2n7JA
-withwendy: tapestry weaving essentials (everything you need)
-## WIREFRAMES:
-
-Balsmaiq
 
 ##BUGS FIXED:
 
@@ -251,16 +260,15 @@ img - width 100% instead of max-width
 video container - #video-container/ #video.container
 form with flexbox - had to undo lots of styling to uncover my mistake. I needed to add 50% with to #form!
 images joined together on hoe page:
-## RESOURCES USED:
 
+## RESOURCES USED:
 Stack Overflow
 Google
-W3
+W3 Schools
 Balsamiq 
 Youtube
 Devtools
 Flex froggy
 google maps
-Ezgif.com - to compress images and reduces
-
+Ezgif.com - to compress images/convert to webp
 ___
